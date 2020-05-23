@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EnrollmentExercise": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Clean_A_R_A_A.csv"
+    }
+  }
+}

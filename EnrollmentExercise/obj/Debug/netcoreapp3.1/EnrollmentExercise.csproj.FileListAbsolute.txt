@@ -1,0 +1,13 @@
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\bin\Debug\netcoreapp3.1\EnrollmentExercise.exe
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\bin\Debug\netcoreapp3.1\EnrollmentExercise.deps.json
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\bin\Debug\netcoreapp3.1\EnrollmentExercise.runtimeconfig.json
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\bin\Debug\netcoreapp3.1\EnrollmentExercise.runtimeconfig.dev.json
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\bin\Debug\netcoreapp3.1\EnrollmentExercise.dll
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\bin\Debug\netcoreapp3.1\EnrollmentExercise.pdb
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\obj\Debug\netcoreapp3.1\EnrollmentExercise.csprojAssemblyReference.cache
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\obj\Debug\netcoreapp3.1\EnrollmentExercise.csproj.CoreCompileInputs.cache
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\obj\Debug\netcoreapp3.1\EnrollmentExercise.AssemblyInfoInputs.cache
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\obj\Debug\netcoreapp3.1\EnrollmentExercise.AssemblyInfo.cs
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\obj\Debug\netcoreapp3.1\EnrollmentExercise.dll
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\obj\Debug\netcoreapp3.1\EnrollmentExercise.pdb
+C:\Dev_projects\Dev_Projects\EnrollmentExercise\EnrollmentExercise\obj\Debug\netcoreapp3.1\EnrollmentExercise.genruntimeconfig.cache
